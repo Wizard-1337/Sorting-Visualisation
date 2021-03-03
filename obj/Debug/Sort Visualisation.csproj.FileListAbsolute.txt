@@ -1,0 +1,21 @@
+E:\CS\Sort Visualisation\bin\Debug\Sort Visualisation.exe.config
+E:\CS\Sort Visualisation\bin\Debug\Sort Visualisation.exe
+E:\CS\Sort Visualisation\bin\Debug\Sort Visualisation.pdb
+E:\CS\Sort Visualisation\obj\Debug\Sort Visualisation.csprojAssemblyReference.cache
+E:\CS\Sort Visualisation\obj\Debug\Sort_Visualisation.MainForm.resources
+E:\CS\Sort Visualisation\obj\Debug\Sort_Visualisation.Properties.Resources.resources
+E:\CS\Sort Visualisation\obj\Debug\Sort Visualisation.csproj.GenerateResource.cache
+E:\CS\Sort Visualisation\obj\Debug\Sort Visualisation.csproj.CoreCompileInputs.cache
+E:\CS\Sort Visualisation\obj\Debug\Sort Visualisation.exe
+E:\CS\Sort Visualisation\obj\Debug\Sort Visualisation.pdb
+C:\Users\Wizard\Desktop\sort\bin\Debug\Sort Visualisation.exe.config
+C:\Users\Wizard\Desktop\sort\bin\Debug\Sort Visualisation.exe
+C:\Users\Wizard\Desktop\sort\bin\Debug\Sort Visualisation.pdb
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort Visualisation.csprojAssemblyReference.cache
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort_Visualisation.MainForm.resources
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort_Visualisation.Properties.Resources.resources
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort Visualisation.csproj.GenerateResource.cache
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort Visualisation.csproj.CoreCompileInputs.cache
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort Visualisation.exe
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort Visualisation.pdb
+C:\Users\Wizard\Desktop\sort\obj\Debug\Sort_Visualisation.Inform.resources
